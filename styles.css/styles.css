@@ -1,0 +1,7 @@
+div[class^="col"]{
+    min-height:50px
+}
+
+.row{
+    border: 1px dashed red;
+}
