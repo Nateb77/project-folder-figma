@@ -6,8 +6,8 @@ div[class^="col"]{
     border: 1px dashed red;
 }
 
-.body{
-    
+body{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .line {
     border-top: 2px solid #000;  
@@ -15,6 +15,13 @@ div[class^="col"]{
   }
 
 img {
-    width: 500px;  /* Set the width to 500px */
-    height: auto;  /* Automatically adjust the height to maintain the aspect ratio */
+    width: 500px;  
+    height: auto; 
   }
+
+p{
+  font-family: 'Times New Roman', Times, serif;
+}
+h2{
+  font-family: cursive;
+}
